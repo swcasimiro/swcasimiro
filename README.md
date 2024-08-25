@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=swcasimiro&style=flat-square&color=blue" alt=""/>
 
 <div id="badges">
   <a href="your-linkedin-URL">
