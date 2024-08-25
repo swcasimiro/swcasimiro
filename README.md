@@ -13,7 +13,7 @@
 </div>
 
 <br>
-[![Github Readme Codewars](https://codewars-stats-1casimiro1.vercel.app/?username=1casimiro1)](https://github.com/swcasimiro/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 <br>
 
