@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<br>
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
