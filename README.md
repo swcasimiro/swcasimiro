@@ -1,6 +1,27 @@
 <div id="badges">
   <a href="https://t.me/swcasimiro">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+<div id="badges">
+  <a>
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/django-basil?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="css Badge"/>
+  </a>
+      <a>
+    <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
+  </a>
+      <a>
+    <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="css Badge"/>
   </a>
 </div>
 <br>
