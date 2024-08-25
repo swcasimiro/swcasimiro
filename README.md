@@ -4,6 +4,15 @@
   </a>
 </div>
 
+<br>
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcasimiro&layout=compact)](https://github.com/swcasimiro/github-readme-stats)
+
+
+
 <div id="badges">
   <a>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -24,13 +33,6 @@
     <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="css Badge"/>
   </a>
 </div>
-<br>
-
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcasimiro&layout=compact)](https://github.com/swcasimiro/github-readme-stats)
-
 
 <!--
 **swcasimiro/swcasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
