@@ -17,7 +17,6 @@
 ![Codewars](https://github.r2v.ch/codewars?user=1casimiro1)
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcasimiro&layout=compact)](https://github.com/swcasimiro/github-readme-stats)
 
