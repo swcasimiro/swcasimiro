@@ -16,8 +16,6 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
-![Codewars](https://github.r2v.ch/codewars?user=1casimiro1)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcasimiro&layout=compact)](https://github.com/swcasimiro/github-readme-stats)
 
