@@ -1,11 +1,10 @@
 <center>
+  
 <div id="badges">
   <a href="https://t.me/swcasimiro">
     <img src="https://www.upload.ee/image/17019597/112312321.png">
   </a>
-    <a href="https://ru.stackoverflow.com/users/488619/casimiro">
-    <img src="https://www.upload.ee/image/17021512/12312321.png">
-  </a>
+
 </div>
 </center>
 
