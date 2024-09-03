@@ -15,86 +15,49 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcasimiro&layout=compact)](https://github.com/swcasimiro/github-readme-stats)
 
+
 ## Hard skills
-
-<strong>Languages:</strong>
 <div>
   <a>
-    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/python-346c99?style=for-the-badge&logo=python&logoColor=fecd3a" alt="Python Badge"/>
   </a>
     <a>
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=f6e019" alt="JavaScript Badge"/>
   </a>
-</div>
-
-<br>
-
-<strong>Framework and Libraries:</strong>
-<br>
-<div>
 <a>
-    <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  </a>
-    <a>
-    <img src="https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+</a>
+  
+<a>
+    <img src="https://img.shields.io/badge/django-Rest Framework-7e2d2c.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+</a>
+  
+<a>
+    <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" alt="FastApi Badge"/>
+</a>
 
 <a>
-    <img src="https://img.shields.io/badge/DRF-black?style=for-the-badge&logo=djangorestframework&logoColor=white" alt="FastApi Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="FastApi Badge"/>
+</a>
 
-  <a>
-    <img src="https://img.shields.io/badge/aiogram-black?style=for-the-badge&logo=aiogram&logoColor=white" alt="FastApi Badge"/>
-  </a>
-
-</div>
-
-<br>
-
-<strong>Database:</strong>
-<br>
-<div>
 <a>
-  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/postgresql-316093?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql Badge"/>
+  <img src="https://img.shields.io/badge/mysql-00618b?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql Badge"/>
 </a> 
-</div>
 
-<br>
-
-<strong>Devops:</strong>
-<br>
-<div>  
+<a>
+    <img src="https://img.shields.io/badge/sqlite-3f9cd8?style=for-the-badge&logo=sqlite&logoColor=white" alt="nginx Badge"/>
+</a>
   <a>
-    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="docker Badge"/>
+    <img src="https://img.shields.io/badge/docker-e4f5ff?style=for-the-badge&logo=docker&logoColor=1e97ef" alt="docker Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx Badge"/>
+    <img src="https://img.shields.io/badge/nginx-0c964d?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx Badge"/>
   </a>
-</div> 
-
-<br>
-
-<strong>Languages Markation and Style:</strong>
-<br>
-<div>
 <a>
-    <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
-  </a>
-      <a>
-    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS&logoColor=white" alt="css Badge"/>
-  </a>
-</div>
-
-<br>
-
-<strong>Version Control:</strong>
-<br>
-<div>
-<a>
-    <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/git-f05132?style=for-the-badge&logo=git&logoColor=white" alt="HTML Badge"/>
   </a>
 </div>
 
