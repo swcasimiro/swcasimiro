@@ -2,10 +2,14 @@
   
 <div id="badges">
   <a href="https://t.me/swcasimiro">
-    <img src="https://www.upload.ee/image/17019597/112312321.png">
+    <img src="https://i.imgur.com/Diw6pBs.png">
   </a>
   <a href="https://ru.stackoverflow.com/users/488619/casimiro">
-    <img src="https://www.upload.ee/image/17021512/12312321.png">
+    <img src="https://i.imgur.com/XmFcOwx.png">
+  </a>
+
+   <a href="https://kwork.ru/user/swcasimiro">
+    <img src="https://i.imgur.com/VXM9um2.png">
   </a>
 </div>
 </center>
@@ -60,7 +64,6 @@
     <img src="https://img.shields.io/badge/git-f05132?style=for-the-badge&logo=git&logoColor=white" alt="HTML Badge"/>
   </a>
 </div>
-
 <!--
 **swcasimiro/swcasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
