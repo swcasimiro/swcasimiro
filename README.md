@@ -37,7 +37,7 @@
 </a>
   
 <a>
-    <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" alt="FastApi Badge"/>
+    <img src="https://img.shields.io/badge/FastAPI-e1f7f3?style=for-the-badge&logo=fastapi" alt="FastApi Badge"/>
 </a>
 
 <a>
