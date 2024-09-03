@@ -29,7 +29,7 @@
 </a>
   
 <a>
-    <img src="https://img.shields.io/badge/django-Rest Framework-7e2d2c.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/django-Rest Framework-a20101.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
 </a>
   
 <a>
