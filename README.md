@@ -67,6 +67,9 @@
 <a>
   <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="HTML Badge"/>
 </a>
+<a>
+  <img src="https://img.shields.io/badge/UBUNTU-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" alt="HTML Badge"/>
+</a>
 </div>
 <!--
 **swcasimiro/swcasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
