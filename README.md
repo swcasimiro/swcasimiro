@@ -16,11 +16,6 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swcasimiro&layout=compact)](https://github.com/swcasimiro/github-readme-stats)
-
-
-## Hard skills
 <div>
   <a>
     <img src="https://img.shields.io/badge/python-346c99?style=for-the-badge&logo=python&logoColor=fecd3a" alt="Python Badge"/>
