@@ -16,6 +16,8 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=swcasimiro)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
+<a href="https://www.codewars.com/users/swcasimiro">link to mine codewars</a>
+
 <div>
   <a>
     <img src="https://img.shields.io/badge/python-346c99?style=for-the-badge&logo=python&logoColor=fecd3a" alt="Python Badge"/>
@@ -72,8 +74,6 @@
   <img src="https://img.shields.io/badge/redis-d93126?style=for-the-badge&logo=redis&logoColor=white" alt="HTML Badge"/>
 </a>
 </div>
-
-<a href="https://www.codewars.com/users/swcasimiro">codewars</a>
 
 <!--
 **swcasimiro/swcasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
