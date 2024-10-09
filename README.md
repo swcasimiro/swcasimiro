@@ -14,7 +14,7 @@
 </div>
 </center>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=1casimiro1)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=swcasimiro)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 <div>
   <a>
