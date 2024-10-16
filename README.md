@@ -68,9 +68,6 @@
 <a>
   <img src="https://img.shields.io/badge/CELERY-93b258?style=for-the-badge&logo=celery&logoColor=white" alt="HTML Badge"/>
 </a>
-<a>
-  <img src="https://img.shields.io/badge/redis-d93126?style=for-the-badge&logo=redis&logoColor=white" alt="HTML Badge"/>
-</a>
 </div>
 
 <!--
