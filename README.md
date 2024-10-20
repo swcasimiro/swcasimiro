@@ -14,59 +14,60 @@
 </div>
 </center>
 
+
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=swcasimiro)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 <div>
   <a>
-    <img src="https://img.shields.io/badge/python-346c99?style=for-the-badge&logo=python&logoColor=fecd3a" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/python-346c99?style=flat-square&logo=python&logoColor=fecd3a" alt="Python Badge"/>
   </a>
     <a>
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=f6e019" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=f6e019" alt="JavaScript Badge"/>
   </a>
 <a>
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
 </a>
   
 <a>
-    <img src="https://img.shields.io/badge/django-Rest Framework-a20101.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/django-Rest Framework-a20101.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
 </a>
   
 <a>
-    <img src="https://img.shields.io/badge/FastAPI-e1f7f3?style=for-the-badge&logo=fastapi" alt="FastApi Badge"/>
+    <img src="https://img.shields.io/badge/FastAPI-e1f7f3?style=flat-square&logo=fastapi" alt="FastApi Badge"/>
 </a>
 
 <a>
-    <img src="https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="FastApi Badge"/>
+    <img src="https://img.shields.io/badge/aiogram-blue?style=flat-square&logo=telegram&logoColor=white" alt="FastApi Badge"/>
 </a>
 
 <a>
-  <img src="https://img.shields.io/badge/postgresql-316093?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/postgresql-316093?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/mysql-00618b?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql Badge"/>
+  <img src="https://img.shields.io/badge/mysql-00618b?style=flat-square&logo=mysql&logoColor=white" alt="Mysql Badge"/>
 </a> 
 
 <a>
-    <img src="https://img.shields.io/badge/sqlite-3f9cd8?style=for-the-badge&logo=sqlite&logoColor=white" alt="nginx Badge"/>
+    <img src="https://img.shields.io/badge/sqlite-3f9cd8?style=flat-square&logo=sqlite&logoColor=white" alt="nginx Badge"/>
 </a>
   <a>
-    <img src="https://img.shields.io/badge/docker-e4f5ff?style=for-the-badge&logo=docker&logoColor=1e97ef" alt="docker Badge"/>
+    <img src="https://img.shields.io/badge/docker-e4f5ff?style=flat-square&logo=docker&logoColor=1e97ef" alt="docker Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/nginx-0c964d?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx Badge"/>
+    <img src="https://img.shields.io/badge/nginx-0c964d?style=flat-square&logo=nginx&logoColor=white" alt="nginx Badge"/>
   </a>
 <a>
-    <img src="https://img.shields.io/badge/git-f05132?style=for-the-badge&logo=git&logoColor=white" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/git-f05132?style=flat-square&logo=git&logoColor=white" alt="HTML Badge"/>
   </a>
 
 <a>
-  <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/linux-black?style=flat-square&logo=linux&logoColor=white" alt="HTML Badge"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/UBUNTU-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/UBUNTU-dd4814?style=flat-square&logo=ubuntu&logoColor=white" alt="HTML Badge"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/CELERY-93b258?style=for-the-badge&logo=celery&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CELERY-93b258?style=flat-square&logo=celery&logoColor=white" alt="HTML Badge"/>
 </a>
 </div>
 
