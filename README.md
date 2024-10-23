@@ -31,13 +31,12 @@
 <a>
     <img src="https://img.shields.io/badge/django-Rest Framework-a20101.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
 </a>
-  
 <a>
     <img src="https://img.shields.io/badge/FastAPI-e1f7f3?style=flat-square&logo=fastapi" alt="FastApi Badge"/>
 </a>
 
 <a>
-    <img src="https://img.shields.io/badge/aiogram-blue?style=flat-square&logo=telegram&logoColor=white" alt="FastApi Badge"/>
+    <img src="https://img.shields.io/badge/Aiogram-blue?style=flat-square&logo=telegram&logoColor=white" alt="FastApi Badge"/>
 </a>
 
 <a>
