@@ -60,13 +60,13 @@
   </a>
 
 <a>
-  <img src="https://img.shields.io/badge/linux-black?style=flat-square&logo=linux&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white" alt="HTML Badge"/>
 </a>
 <a>
   <img src="https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=white" alt="HTML Badge"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/CELERY-93b258?style=flat-square&logo=celery&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/Celery-93b258?style=flat-square&logo=celery&logoColor=white" alt="HTML Badge"/>
 </a>
 </div>
 
