@@ -19,17 +19,17 @@
 
 <div>
   <a>
-    <img src="https://img.shields.io/badge/python-346c99?style=flat-square&logo=python&logoColor=fecd3a" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Python-346c99?style=flat-square&logo=python&logoColor=fecd3a" alt="Python Badge"/>
   </a>
     <a>
-    <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=f6e019" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=f6e019" alt="JavaScript Badge"/>
   </a>
 <a>
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
 </a>
   
 <a>
-    <img src="https://img.shields.io/badge/django-Rest Framework-a20101.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
+    <img src="https://img.shields.io/badge/Django-Rest Framework-a20101.svg?style=flat-square&logo=django&logoColor=white" alt="Django Badge"/>
 </a>
 <a>
     <img src="https://img.shields.io/badge/FastAPI-e1f7f3?style=flat-square&logo=fastapi" alt="FastApi Badge"/>
@@ -40,7 +40,7 @@
 </a>
 
 <a>
-  <img src="https://img.shields.io/badge/postgresql-316093?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316093?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </a>
 <a>
   <img src="https://img.shields.io/badge/mysql-00618b?style=flat-square&logo=mysql&logoColor=white" alt="Mysql Badge"/>
