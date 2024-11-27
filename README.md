@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316093?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </a>
 <a>
-  <img src="https://img.shields.io/badge/mysql-00618b?style=flat-square&logo=mysql&logoColor=white" alt="Mysql Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-00618b?style=flat-square&logo=mysql&logoColor=white" alt="Mysql Badge"/>
 </a> 
 
 <a>
