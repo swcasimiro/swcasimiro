@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/docker-e4f5ff?style=flat-square&logo=docker&logoColor=1e97ef" alt="docker Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/nginx-0c964d?style=flat-square&logo=nginx&logoColor=white" alt="nginx Badge"/>
+    <img src="https://img.shields.io/badge/NGINX-0c964d?style=flat-square&logo=nginx&logoColor=white" alt="nginx Badge"/>
   </a>
 <a>
     <img src="https://img.shields.io/badge/git-f05132?style=flat-square&logo=git&logoColor=white" alt="HTML Badge"/>
