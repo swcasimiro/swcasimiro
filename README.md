@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/SQLite-3f9cd8?style=flat-square&logo=sqlite&logoColor=white" alt="nginx Badge"/>
 </a>
   <a>
-    <img src="https://img.shields.io/badge/docker-e4f5ff?style=flat-square&logo=docker&logoColor=1e97ef" alt="docker Badge"/>
+    <img src="https://img.shields.io/badge/Docker-e4f5ff?style=flat-square&logo=docker&logoColor=1e97ef" alt="docker Badge"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/NGINX-0c964d?style=flat-square&logo=nginx&logoColor=white" alt="nginx Badge"/>
