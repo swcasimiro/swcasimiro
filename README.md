@@ -40,6 +40,10 @@
 </a>
 
 <a>
+    <img src="https://img.shields.io/badge/SQLAlchemy-630d07?style=flat-square&logo=SQLAlchemy&logoColor=white" alt="FastApi Badge"/>
+</a>
+
+<a>
   <img src="https://img.shields.io/badge/PostgreSQL-316093?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </a>
 <a>
