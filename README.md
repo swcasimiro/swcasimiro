@@ -59,6 +59,10 @@
   <a>
     <img src="https://img.shields.io/badge/NGINX-0c964d?style=flat-square&logo=nginx&logoColor=white" alt="nginx Badge"/>
   </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/gunicorn-0c964d?style=flat-square&logo=gunicorn&logoColor=white" alt="gunicorn Badge"/>
+  </a>
 <a>
     <img src="https://img.shields.io/badge/git-f05132?style=flat-square&logo=git&logoColor=white" alt="HTML Badge"/>
   </a>
