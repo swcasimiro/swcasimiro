@@ -20,7 +20,7 @@
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=swcasimiro)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,django,fastapi,redis,javascript,react,vite" alt="Core technologies" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,django,fastapi,redis,rabbitmq,javascript,react,vite" alt="Core technologies" /></a>
 <br>
 <a href="#"><img src="https://skillicons.dev/icons?i=docker,nginx,git,linux" alt="Tools" /></a>
 <br>
