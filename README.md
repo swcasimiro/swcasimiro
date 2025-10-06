@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://swcasimiro.github.io/"><img width="150px" src="https://www.upload.ee/image/18671206/photo_2025-10-06_04-57-55.png"></a>
+<a href="https://swcasimiro.github.io/"><img width="150px" src="https://www.upload.ee/image/18671240/ntcn__1_.png"></a>
 <div id="badges">
   <a href="https://t.me/swcasimiro">
     <img src="https://i.imgur.com/Diw6pBs.png">
