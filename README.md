@@ -8,8 +8,7 @@
   <a href="https://ru.stackoverflow.com/users/488619/casimiro">
     <img src="https://i.imgur.com/XmFcOwx.png">
   </a>
-
-   <a href="https://kwork.ru/user/swcasimiro">
+  <a href="https://kwork.ru/user/swcasimiro">
     <img src="https://i.imgur.com/VXM9um2.png">
   </a>
 </div>
