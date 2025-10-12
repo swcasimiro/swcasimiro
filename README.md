@@ -1,26 +1,14 @@
+<h2>Hi, I'm swcasimiro <img width="25px" src="https://www.upload.ee/image/18690383/my_logo__1_.png"> </h3>
 
-<div align="center">
-<a target="_blank" href="https://swcasimiro.github.io/"><img width="130px" src="https://www.upload.ee/image/18671343/e018954e-5585-43ff-b4be-1a06c4ba327c.png"></a>
-<div id="badges">
-  <a href="https://t.me/swcasimiro">
-    <img src="https://i.imgur.com/Diw6pBs.png">
-  </a>
-  <a href="https://ru.stackoverflow.com/users/488619/casimiro">
-    <img src="https://i.imgur.com/XmFcOwx.png">
-  </a>
-  <a href="https://kwork.ru/user/swcasimiro">
-    <img src="https://i.imgur.com/VXM9um2.png">
-  </a>
-</div>
+<h3>Backend developer | Author of articles on <a href="https://habr.com/ru/users/swcasimiro/">Habr</a> </h3>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=swcasimiro)](https://github.com/ignacio-cuadra/github-readme-codewars)
+<h2>About me</h2>
+<p>I am a Backend Developer from Russia with over 3 years of experience in designing and developing robust backend applications. My core expertise lies in building secure and scalable REST APIs using Django and Django REST Framework. I also leverage FastAPI for modern, high-performance projects when the need arises. Explore my projects and work history on my portfolio website.
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,django,fastapi,redis,rabbitmq,javascript,react,vite" alt="Core technologies" /></a>
+<strong>Portfolio:</strong> https://swcasimiro.github.io/ 
 <br>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,nginx,git,linux" alt="Tools" /></a>
-<br>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="Databases" /></a>
+<strong>KWORK:</strong> https://kwork.ru/user/swcasimiro </p>
 
+<a href="https://t.me/swcasimiro"><img src="https://www.upload.ee/image/18690427/tg.png" width="30px"></a>
+<a href="https://leetcode.com/u/swcasimiro/"><img src="https://www.upload.ee/image/18690448/leetcode.png" width="30px"></a>
 
-
-</div>
