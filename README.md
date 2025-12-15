@@ -11,5 +11,4 @@
 <strong>KWORK:</strong> https://kwork.ru/user/swcasimiro </p>
 
 <a href="https://t.me/swcasimiro"><img src="https://www.upload.ee/image/18690427/tg.png" width="30px"></a>
-<a href="https://leetcode.com/u/swcasimiro/"><img src="https://www.upload.ee/image/18690448/leetcode.png" width="30px"></a>
 
