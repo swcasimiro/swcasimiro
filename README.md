@@ -1,4 +1,4 @@
-<h2>Hi, I'm swcasimiro <img width="30px" src="https://www.upload.ee/image/18690383/my_logo__1_.png"> </h3>
+<h2>Hi, I'm swcasimiro</h3>
 
 <h3>Backend developer | Author of articles on <a href="https://habr.com/ru/users/swcasimiro/">Habr</a> </h3>
 
